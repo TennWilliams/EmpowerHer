@@ -233,7 +233,7 @@ h6 {
   
 }
 
-/* Mobile Navigation */
+/* Mobile Navigation 
 .mobile-nav-toggle {
   position: fixed;
   right: 15px;
@@ -261,7 +261,7 @@ h6 {
 
 .mobile-nav-active #header {
   left: 0;
-}
+}*/
 
 /*--------------------------------------------------------------
 # Hero Section
